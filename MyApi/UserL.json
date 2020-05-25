@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "Id": 2,
+      "Base": "UAH",
+      "Currency": [
+        {
+          "Cur": "EUR"
+        },
+        {
+          "Cur": "UAH"
+        },
+        {
+          "Cur": "AED"
+        },
+        {
+          "Cur": "USD"
+        },
+        {
+          "Cur": "RUB"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Base": "EUR",
+      "Currency": [
+        {
+          "Cur": "USD"
+        },
+        {
+          "Cur": "RUB"
+        }
+      ]
+    },
+    {
+      "Id": 469111924,
+      "Base": "RUB",
+      "Currency": [
+        {
+          "Cur": "USD"
+        },
+        {
+          "Cur": "EUR"
+        }
+      ]
+    },
+    {
+      "Id": 364702722,
+      "Base": "UAH",
+      "Currency": [
+        {
+          "Cur": "USD"
+        },
+        {
+          "Cur": "EUR"
+        }
+      ]
+    },
+    {
+      "Id": 500458637,
+      "Base": "USD",
+      "Currency": [
+        {
+          "Cur": "USD"
+        },
+        {
+          "Cur": "RUB"
+        }
+      ]
+    },
+    {
+      "Id": 457326305,
+      "Base": "UAH",
+      "Currency": [
+        {
+          "Cur": "RUB"
+        }
+      ]
+    },
+    {
+      "Id": 492794255,
+      "Base": "UAH",
+      "Currency": [
+        {
+          "Cur": "USD"
+        }
+      ]
+    },
+    {
+      "Id": 308656540,
+      "Base": "UAH",
+      "Currency": [
+        {
+          "Cur": "USD"
+        }
+      ]
+    },
+    {
+      "Id": 556501447,
+      "Base": "UAH",
+      "Currency": [
+        {
+          "Cur": "USD"
+        }
+      ]
+    }
+  ]
+}
